@@ -1,1 +1,3 @@
-# meutcc
+O código HTML começa com a declaração <!DOCTYPE html>, que define que o documento segue o padrão HTML5. Em seguida, a tag <html lang="pt-BR"> inicia a estrutura do documento, indicando que o conteúdo está em português do Brasil. Dentro dessa estrutura, temos a seção <head>, que contém metadados importantes, como a codificação de caracteres definida por <meta charset="UTF-8">, garantindo o uso correto de acentos e caracteres especiais. Ainda dentro do <head>, a tag <title> especifica o título da página que será exibido na aba do navegador.
+
+Logo após, a tag <body> representa o corpo do documento, ou seja, toda a parte visível para o usuário. Dentro dela, temos um <h1>, que é um título de nível 1, utilizado para apresentar o texto "Olá, bem-vindo!" de forma destacada na página.
